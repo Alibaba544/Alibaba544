@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me email me @ inertia.newton@yahoo.com
-[google](https://google.com)
+- [google](https://google.com)
 
 <!---
 Alibaba544/Alibaba544 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
